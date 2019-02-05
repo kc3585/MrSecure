@@ -28,3 +28,13 @@ Improve the appeal of the app’s User Interface and add more features like a re
 Arduino, Swift, Firebase
 
 ![](20190203_114736.jpg)
+
+![](IMG_8428.jpg)
+
+![](IMG_8429.jpg)
+
+![](IMG_8430.jpg)
+
+![](20190203_012126.jpg)
+
+![](20190202_094717.jpg)
