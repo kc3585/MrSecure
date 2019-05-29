@@ -2,7 +2,7 @@
 MakeHarvard 2019 Project: Package Delivery System
 
 Project: https://devpost.com/software/temporary-uioxk9
-
+ 
 # Inspiration
 Thousands of packages get stolen every year, and given the high population density, it’s not surprising that New York is also subject to numerous thefts caused by rushed deliveries. There have been many times this year where our group members have ordered supplies online only to find no trace of it when it finally announced its arrival. This not only serves as an inconvenience for consumers but also for companies as well. Online shopping websites like Amazon and shipping companies like UPS are held responsible for lost packages; for the more expensive products, they often go to great lengths to ensure the package’s safety. Our product intends to solve this issue by guaranteeing a safe and secure delivery using new technologies at a low-cost installation. By using the tracking number, we can identify the package and allow the carrier to drop it off inside the safety of your house.
 
